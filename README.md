@@ -2,7 +2,7 @@
 TIL (Today I Learned) is a collection of concise development-related insights and lessons I've learned, covering various topics and best practices encountered in coding and software development.
 
 ## Category
-- [Git and Github]
+- [Git and Github](https://github.com/jjungmincho/til#git-n-github)
 
 
 ### Git and Github
