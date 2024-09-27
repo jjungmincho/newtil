@@ -9,6 +9,8 @@
 git add .
 ```
 
+To check: "git status"
+
 4. Make a history
 ```
 git commit -m "message"

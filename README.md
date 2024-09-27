@@ -15,6 +15,7 @@ TIL (Today I Learned) is a collection of concise development-related insights an
 3. [How to use Terminal at the beginning](https://github.com/jjungmincho/newtil/blob/master/git-n-github/how-use-terminal.md)
 4. [How to clone a Github Repo to your Local Machine](https://github.com/jjungmincho/newtil/blob/master/git-n-github/how-to-clone-githubrepo-local.md)
 5. [How to setup Git bash when you first start](https://github.com/jjungmincho/newtil/blob/master/git-n-github/setup-git-start.md)
+6. [How to update your files on Github regularly](https://github.com/jjungmincho/newtil/blob/master/git-n-github/regular-upload-github.md)
 
 ### ReadMe.md
 1. [How to link sites in README.md](https://github.com/jjungmincho/newtil/blob/master/readme-md/how-link-repos.md)
