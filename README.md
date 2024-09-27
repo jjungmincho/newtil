@@ -2,8 +2,12 @@
 TIL (Today I Learned) is a collection of concise development-related insights and lessons I've learned, covering various topics and best practices encountered in coding and software development.
 
 ## Category
+- [Elementor](https://github.com/jjungmincho/newtil#elementor)
 - [Git and Github](https://github.com/jjungmincho/newtil#git-n-github)
 - [ReadMe.md](https://github.com/jjungmincho/newtil#readme-md)
+
+### Elementor
+1. [How to link popup when clicking the logo](https://github.com/jjungmincho/newtil/blob/master/elementor/popup-logo)
 
 
 ### Git and Github
@@ -15,4 +19,5 @@ TIL (Today I Learned) is a collection of concise development-related insights an
 ### ReadMe.md
 1. [How to link sites in README.md](https://github.com/jjungmincho/newtil/blob/master/readme-md/how-link-repos.md)
 2. [How to write the form in README.md](https://github.com/jjungmincho/newtil/blob/master/readme-md/code-block.md)
+
 
