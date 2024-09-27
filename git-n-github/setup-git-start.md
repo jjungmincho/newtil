@@ -1,1 +1,0 @@
-# How to setup your git (aka Terminal) when you first start
